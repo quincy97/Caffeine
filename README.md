@@ -2,7 +2,7 @@
 
 A terminal-based keep-awake utility for macOS — replicating [Caffeine.app](https://www.caffeine-app.net) entirely from the command line.
 
-No menu bar icon, no GUI, no dependencies. Just a single zsh script that prevents your Mac from sleeping.
+No menu bar icon, no GUI, no dependencies. Just a single zsh script that prevents your Mac from sleeping. And keep it simple too!
 
 ---
 
